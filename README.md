@@ -1,0 +1,1 @@
+This repository demonstrates a common Python bug: the RecursionError caused by improper handling of the base case in a recursive function. The factorial function provided doesn't handle negative input, leading to infinite recursion.  The solution demonstrates how to add input validation to prevent this error.
